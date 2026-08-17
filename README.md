@@ -96,7 +96,7 @@ Buat teman-teman yang ingin menjalankan atau mencoba proyek ini di komputer loka
 1. **Pastikan Node.js sudah terinstal** (rekomendasi Node.js v18 atau lebih baru).
 2. **Kloning repositori ini**:
    ```bash
-   git clone https://github.com/dounfi/prokerkita.git
+   git clone https://github.com/NadaaaaH/ProkerKita.git
    cd prokerkita
    ```
 3. **Instal seluruh dependensi**:
@@ -106,7 +106,7 @@ Buat teman-teman yang ingin menjalankan atau mencoba proyek ini di komputer loka
 4. **Jalankan dev server**:
    ```bash
    npm run dev
-   ```
-5. Buka browser dan kunjungi `http://localhost:3000`.
+   ```.
+5. Buka browser dan kunjungi `http://localhost:8080`.
 
 ---
