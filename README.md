@@ -1,4 +1,4 @@
-# ProkerKita — Platform Validasi & Preseden Proker KKN Desa
+# ProkerKita: Ekosistem Cerdas Evaluasi Risiko dan Arsip Interaktif untuk Optimalisasi Keberhasilan Program Kerja Nyata
 
 Halo! Selamat datang di repositori **ProkerKita**.
 
