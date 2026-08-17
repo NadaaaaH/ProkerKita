@@ -21,6 +21,17 @@ Manfaat utama aplikasi ini adalah mencegah mahasiswa buang-buang dana dan waktu 
 
 Terkait subtema **Humanity OS**, kami mengibaratkan aplikasi ini sebagai "sistem operasi" yang mendukung gotong royong dan kemanusiaan. Kami menggunakan AI bukan sekadar untuk *show-off* teknologi, tapi untuk memanfaatkan pengalaman ribuan mahasiswa di masa lalu agar program sosial ke depannya tidak mengulangi kesalahan yang sama dan berdampak lebih besar.
 
+## Tech Stack
+- React.js
+- TanStack Start & Router
+- Tailwind CSS v4
+- Radix UI
+- TanStack Query
+- GSAP & Framer Motion
+- React Hook Form & Zod
+- TypeScript
+- Vite
+
 ## Cara Menjalankan Proyek (Instalasi Lokal)
 
 1. **Clone repositori**
